@@ -1,0 +1,777 @@
+date,scheduled_start,home_team,away_team,competition,stadium_name,type,half,minute,second,team,player,coord_1_x,coord_1_y,coord_1_z,receiver,coord_2_x,coord_2_y,coord_2_z
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,1,1,46,Barracas Central,Facundo Mater,0.35,-0.5,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,1,5,4,Barracas Central,Alan Cantero,0.24,-0.69,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,1,5,3,Dep. Riestra,Nahuel Iribarren,0.24,-0.47,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,1,8,7,Barracas Central,Alexis Domínguez,0.04,-0.81,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,1,10,3,Dep. Riestra,Guillermo Pereira,-0.37,-0.76,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,1,11,19,Barracas Central,Maximiliano Zalazar,0.11,0.65,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,1,14,30,Dep. Riestra,Nicolás Benegas,-0.2,-0.62,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,1,21,29,Dep. Riestra,William Machado,-0.28,0.28,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,1,21,44,Dep. Riestra,Walter Acuña,0.61,-0.79,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,1,24,46,Barracas Central,Rodrigo Herrera,0.44,-0.44,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,1,30,36,Dep. Riestra,Nahuel Iribarren,0.07,-0.69,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,1,39,1,Dep. Riestra,Alan Barrionuevo,0.28,-0.78,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,2,46,33,Barracas Central,Rodrigo Insúa,-0.46,-0.87,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,2,81,47,Barracas Central,Facundo Mater,-0.5,0.66,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,2,83,11,Dep. Riestra,Milton Céliz,-0.13,-0.27,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,2,86,28,Barracas Central,Rodrigo Insúa,-0.54,-0.77,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,steal,2,87,27,Dep. Riestra,Jonatan Goitía,0.76,-0.78,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,1,5,8,Dep. Riestra,Walter Acuña,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,1,2,50,Barracas Central,Alexis Domínguez,-0.86,0.1,-1.0,Ignacio Arce,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,1,7,23,Dep. Riestra,Nicolás Benegas,-0.32,-0.09,-1.0,Siro Rosané,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,1,12,20,Barracas Central,Rodrigo Herrera,-0.26,-0.36,-1.0,Milton Céliz,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,1,15,51,Barracas Central,Rodrigo Herrera,-0.53,-0.65,-1.0,Walter Acuña,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,1,17,41,Dep. Riestra,Milton Céliz,-0.31,-0.09,-1.0,Alan Cantero,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,1,19,50,Barracas Central,Lucas Brochero,-0.27,-0.02,-1.0,Milton Céliz,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,1,22,56,Barracas Central,Lucas Brochero,0.26,-0.73,-1.0,Guillermo Pereira,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,1,24,56,Dep. Riestra,William Machado,-0.35,-0.42,-1.0,Alan Cantero,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,1,27,26,Dep. Riestra,Milton Céliz,-0.33,-0.46,-1.0,Siro Rosané,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,1,28,32,Barracas Central,Lucas Brochero,0.23,-0.75,-1.0,Milton Céliz,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,1,43,26,Barracas Central,Alan Cantero,-0.78,-0.31,-1.0,Nahuel Iribarren,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,2,46,37,Dep. Riestra,Walter Acuña,-0.46,-0.83,-1.0,Rodrigo Insúa,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,2,49,43,Dep. Riestra,Gustavo Fernández,-0.27,-0.86,-1.0,Rodrigo Insúa,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,2,59,46,Barracas Central,Alexis Domínguez,0.51,0.44,-1.0,Ignacio Arce,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,2,63,31,Barracas Central,Rodrigo Insúa,-0.59,-0.68,-1.0,Walter Acuña,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,2,66,35,Barracas Central,Maximiliano Puig,-0.24,-0.41,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,2,72,7,Barracas Central,Maximiliano Puig,-0.53,0.62,-1.0,Walter Acuña,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,2,75,45,Dep. Riestra,Gonzalo Bravo,-0.72,0.14,-1.0,Facundo Mater,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,2,77,13,Dep. Riestra,Milton Céliz,-0.45,0.17,-1.0,Carlos Arce,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,2,82,12,Dep. Riestra,Jonatan Goitía,0.1,-0.14,-1.0,Maximiliano Puig,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,2,84,29,Barracas Central,Facundo Mater,0.53,0.75,-1.0,Gustavo Fernández,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,2,87,37,Barracas Central,Maximiliano Puig,0.65,-0.5,-1.0,Jonatan Goitía,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,foul,2,88,3,Dep. Riestra,Gustavo Fernández,-0.75,-0.5,-1.0,Rodrigo Insúa,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,1,2,30,Barracas Central,Nicolás Capraro,-0.95,0.04,-1.0,Ignacio Arce,-1.0,0.02,0.84
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,1,7,8,Barracas Central,Maximiliano Zalazar,-0.43,0.5,-1.0,Ignacio Arce,-0.99,-0.02,0.4
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,1,7,37,Barracas Central,Maximiliano Zalazar,-0.62,-0.24,-1.0,Ignacio Arce,-0.99,0.02,0.18
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,1,11,17,Barracas Central,Maximiliano Zalazar,0.19,0.5,-1.0,Ignacio Arce,-0.92,-0.01,0.6
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,1,14,24,Barracas Central,Facundo Mater,-0.59,-0.29,-1.0,Milton Céliz,-0.71,-0.19,0.63
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,1,15,36,Barracas Central,Lucas Brochero,-0.53,-0.54,-1.0,Milton Céliz,-0.67,-0.3,0.48
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,1,25,46,Barracas Central,Rodrigo Insúa,-0.31,-0.47,-1.0,Ignacio Arce,-1.0,0.02,0.49
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,1,26,20,Dep. Riestra,William Machado,0.41,0.16,-1.0,,1.0,-0.38,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,1,26,53,Dep. Riestra,Milton Céliz,0.69,0.07,-1.0,Sebastián Moyano,0.97,0.03,0.2
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,1,28,19,Barracas Central,Alexis Domínguez,-0.71,-0.23,-1.0,Nicolás Caro Torres,-0.79,-0.04,0.58
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,2,47,0,Dep. Riestra,Jonathan Herrera,-0.81,-0.45,-1.0,,-0.98,-0.37,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,2,47,52,Barracas Central,Lucas Brochero,0.95,-0.04,-1.0,,0.99,-0.06,0.2
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,2,47,47,Barracas Central,Alexis Domínguez,0.91,0.18,-1.0,Nicolás Caro Torres,0.99,-0.04,0.26
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,2,50,21,Barracas Central,Siro Rosané,0.47,-0.06,-1.0,,1.0,0.02,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,2,52,12,Barracas Central,Maximiliano Zalazar,0.68,-0.35,-1.0,,1.0,-0.18,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,2,54,8,Dep. Riestra,Milton Céliz,-0.72,0.07,-1.0,Sebastián Moyano,-0.99,0.0,0.16
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,2,61,51,Barracas Central,Alexis Domínguez,0.74,0.03,-1.0,,0.98,0.27,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,2,67,34,Dep. Riestra,Guillermo Pereira,-0.58,0.3,-1.0,,-1.0,0.69,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,2,72,57,Dep. Riestra,Walter Acuña,-0.66,-0.06,-1.0,Nicolás Capraro,-0.79,-0.02,0.59
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,2,73,25,Dep. Riestra,Jonathan Herrera,-0.75,0.22,-1.0,,-0.89,-0.94,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,2,90,1,Dep. Riestra,Ignacio Arce,-0.81,-0.08,-1.0,Sebastián Moyano,-1.0,0.04,0.3
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,shot,2,92,22,Dep. Riestra,Walter Acuña,-0.67,0.38,-1.0,,-0.99,0.2,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,1,10,59,Dep. Riestra,Ignacio Arce,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,1,12,47,Barracas Central,Sebastián Moyano,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,1,20,53,Barracas Central,Sebastián Moyano,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,1,23,51,Dep. Riestra,Ignacio Arce,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,1,26,31,Barracas Central,Sebastián Moyano,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,2,47,22,Barracas Central,Sebastián Moyano,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,2,50,28,Dep. Riestra,Ignacio Arce,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,2,50,49,Barracas Central,Sebastián Moyano,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,2,52,20,Dep. Riestra,Ignacio Arce,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,2,57,34,Barracas Central,Sebastián Moyano,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,2,61,57,Dep. Riestra,Ignacio Arce,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,2,67,47,Barracas Central,Sebastián Moyano,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,2,69,40,Dep. Riestra,Ignacio Arce,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,2,82,51,Dep. Riestra,Ignacio Arce,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,2,87,1,Barracas Central,Sebastián Moyano,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal_kick,2,92,43,Barracas Central,Sebastián Moyano,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,0,30,Dep. Riestra,Guillermo Pereira,0.22,-0.97,-1.0,,0.73,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,0,38,Dep. Riestra,Guillermo Pereira,0.61,-0.96,-1.0,,0.85,-0.74,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,5,41,Barracas Central,Rodrigo Insúa,0.49,0.97,-1.0,,0.66,0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,8,13,Barracas Central,Facundo Mater,0.58,-0.95,-1.0,,0.46,-0.7,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,11,43,Dep. Riestra,Jonatan Goitía,-0.26,0.98,-1.0,,0.29,0.74,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,13,31,Barracas Central,Rodrigo Insúa,0.23,0.98,-1.0,,0.16,0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,17,22,Barracas Central,Facundo Mater,-0.35,-0.97,-1.0,,-0.31,-0.55,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,21,22,Barracas Central,Rodrigo Insúa,-0.63,0.98,-1.0,,-0.38,0.78,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,29,40,Dep. Riestra,Jonatan Goitía,0.38,0.98,-1.0,,0.89,0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,30,4,Dep. Riestra,Jonatan Goitía,0.19,0.96,-1.0,,-0.1,0.78,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,30,45,Barracas Central,Facundo Mater,0.55,-0.99,-1.0,,0.48,-0.6,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,32,41,Dep. Riestra,Guillermo Pereira,0.17,-0.98,-1.0,,0.53,-0.71,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,32,55,Barracas Central,Facundo Mater,0.6,-0.99,-1.0,,0.27,-0.58,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,33,33,Barracas Central,Facundo Mater,0.38,-0.98,-1.0,,0.41,-0.68,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,36,22,Barracas Central,Facundo Mater,0.28,-0.98,-1.0,,0.29,-0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,37,19,Barracas Central,Rodrigo Insúa,-0.57,0.98,-1.0,,-0.84,0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,38,24,Dep. Riestra,Jonatan Goitía,-0.1,0.98,-1.0,,0.33,0.74,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,41,35,Barracas Central,Facundo Mater,-0.2,-0.96,-1.0,,0.17,-0.71,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,43,8,Barracas Central,Facundo Mater,-0.77,-0.95,-1.0,,-0.78,-0.67,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,44,22,Dep. Riestra,Guillermo Pereira,-0.4,-0.96,-1.0,,0.12,-0.68,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,44,41,Barracas Central,Facundo Mater,-0.5,-0.96,-1.0,,0.14,-0.72,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,45,7,Barracas Central,Rodrigo Insúa,-0.5,0.97,-1.0,,-0.39,0.74,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,45,54,Barracas Central,Rodrigo Insúa,0.28,0.98,-1.0,,0.12,0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,1,46,39,Barracas Central,Facundo Mater,-0.06,-0.95,-1.0,,0.26,-0.71,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,51,35,Barracas Central,Rodrigo Insúa,0.72,-0.97,-1.0,,0.84,-0.7,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,52,58,Dep. Riestra,Jonatan Goitía,0.58,-0.94,-1.0,,0.08,-0.7,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,53,18,Dep. Riestra,Jonatan Goitía,-0.57,-0.96,-1.0,,-0.77,-0.77,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,53,46,Dep. Riestra,Jonatan Goitía,-0.85,-0.97,-1.0,,-0.86,-0.4,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,56,17,Dep. Riestra,Alan Barrionuevo,-0.64,0.99,-1.0,,-0.86,0.27,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,56,42,Dep. Riestra,Alan Barrionuevo,-0.78,0.97,-1.0,,-0.87,0.24,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,57,49,Barracas Central,Rodrigo Insúa,0.69,-0.95,-1.0,,0.89,-0.65,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,58,7,Barracas Central,Rodrigo Insúa,0.61,-0.97,-1.0,,0.79,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,58,26,Barracas Central,Rodrigo Insúa,0.36,-0.95,-1.0,,0.39,-0.57,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,58,45,Dep. Riestra,Jonatan Goitía,0.55,-0.95,-1.0,,0.2,-0.87,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,63,11,Dep. Riestra,Jonatan Goitía,0.47,-0.98,-1.0,,0.63,-0.58,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,65,17,Dep. Riestra,Jonatan Goitía,-0.73,-0.98,-1.0,,-0.84,-0.7,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,66,17,Barracas Central,Rodrigo Insúa,-0.74,-0.97,-1.0,,-0.27,-0.78,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,67,21,Dep. Riestra,Alan Barrionuevo,-0.71,0.99,-1.0,,-0.82,0.33,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,68,30,Dep. Riestra,Jonatan Goitía,-0.8,-0.95,-1.0,,-0.91,-0.7,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,68,58,Dep. Riestra,Jonatan Goitía,-0.84,-0.98,-1.0,,-0.87,-0.33,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,69,57,Dep. Riestra,Jonatan Goitía,-0.27,-0.96,-1.0,,-0.35,-0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,70,23,Dep. Riestra,Alan Barrionuevo,0.47,0.98,-1.0,,0.72,0.55,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,71,13,Dep. Riestra,Alan Barrionuevo,-0.41,1.0,-1.0,,-0.6,0.87,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,74,41,Barracas Central,Rodrigo Insúa,-0.82,-0.96,-1.0,,-0.27,-0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,76,30,Barracas Central,Rodrigo Insúa,0.48,-0.97,-1.0,,0.7,-0.86,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,76,43,Dep. Riestra,Jonatan Goitía,0.55,-0.94,-1.0,,0.33,-0.77,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,83,55,Barracas Central,Facundo Mater,0.46,0.98,-1.0,,0.69,0.84,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,84,11,Barracas Central,Facundo Mater,0.85,0.99,-1.0,,0.93,0.84,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,85,25,Dep. Riestra,Leonardo Landriel,-0.08,0.97,-1.0,,-0.28,0.68,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,85,45,Dep. Riestra,Walter Acuña,-0.86,0.98,-1.0,,-0.66,0.86,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,86,3,Barracas Central,Rodrigo Insúa,-0.28,-0.94,-1.0,,0.24,-0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,90,28,Dep. Riestra,Leonardo Landriel,0.09,0.96,-1.0,,-0.13,0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,90,36,Dep. Riestra,Leonardo Landriel,0.49,0.96,-1.0,,0.73,0.79,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,90,56,Dep. Riestra,Jonatan Goitía,0.64,-0.98,-1.0,,0.69,-0.4,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,92,9,Dep. Riestra,Gonzalo Bravo,-0.43,-0.97,-1.0,,-0.23,-0.76,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,93,50,Dep. Riestra,Jonatan Goitía,-0.77,-0.96,-1.0,,-0.77,-0.26,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,throw_in,2,94,32,Dep. Riestra,Jonatan Goitía,0.86,-0.97,-1.0,,0.83,-0.1,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,offside,1,34,22,Dep. Riestra,Walter Acuña,0.62,-0.76,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,offside,2,80,50,Barracas Central,Maximiliano Puig,0.67,-0.75,-1.0,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,0,43,Barracas Central,Gonzalo Goñi,0.55,0.84,-1.0,Nicolás Capraro,0.66,0.13,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,0,48,Barracas Central,Nicolás Capraro,0.66,0.01,-1.0,Facundo Mater,0.5,-0.78,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,1,25,Dep. Riestra,Guillermo Pereira,-0.32,-0.73,-1.0,Alan Barrionuevo,-0.51,-0.75,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,1,29,Barracas Central,Sebastián Moyano,0.89,-0.01,-1.0,Lucas Brochero,-0.45,-0.88,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,1,30,Dep. Riestra,Alan Barrionuevo,-0.47,-0.74,-1.0,Guillermo Pereira,-0.3,-0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,1,37,Dep. Riestra,Walter Acuña,0.24,-0.48,-1.0,Milton Céliz,0.17,-0.64,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,1,51,Barracas Central,Facundo Mater,0.32,-0.47,-1.0,Alexis Domínguez,-0.68,-0.76,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,2,25,Barracas Central,Facundo Mater,-0.1,-0.44,-1.0,Rodrigo Insúa,-0.53,-0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,2,47,Barracas Central,Maximiliano Zalazar,-0.84,0.87,-1.0,Lucas Brochero,-0.51,0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,3,44,Dep. Riestra,Ignacio Arce,-0.69,-0.14,-1.0,Nicolás Benegas,0.49,-0.38,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,3,54,Dep. Riestra,Guillermo Pereira,0.2,-0.5,-1.0,Nahuel Iribarren,-0.23,-0.38,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,4,1,Dep. Riestra,Jonatan Goitía,0.28,0.65,-1.0,Walter Acuña,0.45,0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,4,17,Dep. Riestra,William Machado,0.12,0.74,-1.0,Walter Acuña,0.77,0.52,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,5,7,Dep. Riestra,Nahuel Iribarren,0.22,-0.52,-1.0,Walter Acuña,0.46,-0.76,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,5,30,Barracas Central,Nicolás Capraro,0.49,-0.72,-1.0,Sebastián Moyano,0.75,-0.03,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,5,34,Barracas Central,Sebastián Moyano,0.76,0.06,-1.0,Gonzalo Goñi,0.48,0.55,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,5,37,Barracas Central,Gonzalo Goñi,0.44,0.58,-1.0,Rodrigo Insúa,0.32,0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,5,46,Barracas Central,Rodrigo Insúa,0.25,0.97,-1.0,Siro Rosané,0.54,0.67,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,5,51,Barracas Central,Siro Rosané,0.54,0.78,-1.0,Facundo Mater,0.42,-0.66,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,5,58,Barracas Central,Facundo Mater,-0.37,0.04,-1.0,Siro Rosané,-0.36,0.52,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,6,2,Barracas Central,Siro Rosané,-0.35,0.53,-1.0,Maximiliano Zalazar,-0.66,0.84,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,6,17,Dep. Riestra,William Machado,0.11,0.0,-1.0,Milton Céliz,0.31,-0.05,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,6,19,Dep. Riestra,Milton Céliz,0.26,-0.16,-1.0,William Machado,0.19,-0.15,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,6,20,Dep. Riestra,William Machado,0.14,-0.22,-1.0,Guillermo Pereira,0.19,-0.57,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,6,23,Dep. Riestra,Guillermo Pereira,0.18,-0.61,-1.0,Walter Acuña,0.52,0.18,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,6,25,Dep. Riestra,Walter Acuña,0.51,0.06,-1.0,Nicolás Benegas,0.62,-0.16,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,6,34,Barracas Central,Facundo Mater,0.5,-0.6,-1.0,Rodrigo Herrera,0.07,-0.79,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,6,39,Dep. Riestra,Nahuel Iribarren,-0.48,-0.67,-1.0,Ignacio Arce,-0.49,-0.14,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,7,0,Barracas Central,Facundo Mater,0.41,-0.65,-1.0,Rodrigo Herrera,0.28,-0.32,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,7,8,Barracas Central,Rodrigo Insúa,0.18,0.77,-1.0,Maximiliano Zalazar,-0.33,0.65,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,7,33,Barracas Central,Maximiliano Zalazar,-0.37,0.94,-1.0,Alan Cantero,-0.41,0.26,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,7,40,Barracas Central,Alan Cantero,-0.37,0.22,-1.0,Maximiliano Zalazar,-0.48,-0.27,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,7,54,Dep. Riestra,Ignacio Arce,-0.7,-0.21,-1.0,Alan Barrionuevo,-0.43,-0.66,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,8,20,Barracas Central,Facundo Mater,0.36,-0.95,-1.0,Rodrigo Herrera,0.11,-0.65,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,8,25,Barracas Central,Rodrigo Herrera,0.12,-0.65,-1.0,Nicolás Capraro,0.51,-0.71,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,8,26,Barracas Central,Nicolás Capraro,0.55,-0.63,-1.0,Gonzalo Goñi,0.6,0.29,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,8,30,Barracas Central,Gonzalo Goñi,0.54,0.3,-1.0,Rodrigo Insúa,0.33,0.79,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,8,32,Barracas Central,Rodrigo Insúa,0.34,0.79,-1.0,Gonzalo Goñi,0.49,0.39,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,8,34,Barracas Central,Gonzalo Goñi,0.46,0.41,-1.0,Rodrigo Insúa,0.23,0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,8,39,Barracas Central,Rodrigo Insúa,0.13,0.5,-1.0,Siro Rosané,0.22,0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,8,42,Barracas Central,Siro Rosané,0.06,0.69,-1.0,Facundo Mater,0.02,-0.53,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,8,46,Barracas Central,Facundo Mater,-0.03,-0.48,-1.0,Lucas Brochero,-0.48,-0.76,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,9,4,Barracas Central,Facundo Mater,-0.4,-0.58,-1.0,Alan Cantero,-0.18,-0.18,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,9,10,Barracas Central,Alan Cantero,-0.15,-0.25,-1.0,Lucas Brochero,-0.63,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,9,22,Dep. Riestra,Jonatan Goitía,-0.27,0.44,-1.0,Milton Céliz,-0.29,0.2,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,9,48,Barracas Central,Alan Cantero,-0.49,-0.04,-1.0,Rodrigo Herrera,-0.16,0.16,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,9,54,Barracas Central,Rodrigo Herrera,-0.17,0.15,-1.0,Siro Rosané,-0.32,0.61,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,9,56,Barracas Central,Siro Rosané,-0.29,0.6,-1.0,Gonzalo Goñi,0.45,0.53,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,9,59,Barracas Central,Gonzalo Goñi,0.54,-0.21,-1.0,Nicolás Capraro,0.51,-0.25,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,3,Barracas Central,Nicolás Capraro,0.52,-0.28,-1.0,Facundo Mater,0.09,-0.78,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,6,Barracas Central,Facundo Mater,0.03,-0.81,-1.0,Lucas Brochero,-0.41,-0.63,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,9,Barracas Central,Lucas Brochero,-0.43,-0.66,-1.0,Facundo Mater,-0.11,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,6,Dep. Riestra,Guillermo Pereira,-0.21,-0.68,-1.0,Milton Céliz,-0.2,-0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,9,Dep. Riestra,Milton Céliz,0.12,-0.57,-1.0,Guillermo Pereira,0.14,-0.66,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,18,Barracas Central,Siro Rosané,0.19,0.04,-1.0,Alan Cantero,-0.23,0.03,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,23,Barracas Central,Alan Cantero,-0.21,-0.58,-1.0,Facundo Mater,0.32,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,26,Barracas Central,Facundo Mater,0.36,-0.73,-1.0,Rodrigo Herrera,0.27,-0.39,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,29,Barracas Central,Rodrigo Herrera,0.19,-0.35,-1.0,Rodrigo Insúa,0.2,0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,33,Barracas Central,Rodrigo Insúa,0.36,0.81,-1.0,Gonzalo Goñi,0.44,0.29,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,37,Barracas Central,Gonzalo Goñi,0.46,0.24,-1.0,Nicolás Capraro,0.46,-0.29,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,40,Barracas Central,Nicolás Capraro,0.41,-0.2,-1.0,Gonzalo Goñi,0.38,0.33,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,42,Barracas Central,Gonzalo Goñi,0.38,0.39,-1.0,Rodrigo Insúa,0.15,0.88,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,10,49,Barracas Central,Rodrigo Insúa,0.11,0.81,-1.0,Alexis Domínguez,-0.67,0.76,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,11,3,Dep. Riestra,Nicolás Benegas,0.41,-0.62,-1.0,Walter Acuña,0.49,-0.51,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,11,7,Dep. Riestra,Walter Acuña,0.44,-0.55,-1.0,Jonatan Goitía,0.31,0.55,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,12,11,Barracas Central,Nicolás Capraro,0.65,0.48,-1.0,Rodrigo Insúa,0.56,0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,12,9,Dep. Riestra,Nicolás Caro Torres,-0.03,0.75,-1.0,Milton Céliz,0.1,0.2,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,12,12,Dep. Riestra,Milton Céliz,0.02,0.13,-1.0,Guillermo Pereira,0.04,-0.41,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,12,15,Dep. Riestra,Guillermo Pereira,-0.07,-0.49,-1.0,Alan Barrionuevo,-0.27,-0.46,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,12,19,Dep. Riestra,Alan Barrionuevo,-0.25,-0.44,-1.0,Milton Céliz,0.11,-0.43,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,12,27,Dep. Riestra,Alan Barrionuevo,-0.02,-0.45,-1.0,Nahuel Iribarren,-0.18,0.02,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,12,32,Dep. Riestra,Nahuel Iribarren,-0.2,0.18,-1.0,Nicolás Caro Torres,-0.16,0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,12,34,Dep. Riestra,Nicolás Caro Torres,-0.15,0.4,-1.0,Nahuel Iribarren,-0.17,0.06,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,13,2,Dep. Riestra,Jonatan Goitía,0.22,0.6,-1.0,Walter Acuña,0.26,0.35,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,13,5,Dep. Riestra,Walter Acuña,0.33,0.23,-1.0,Guillermo Pereira,0.66,-0.44,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,13,20,Barracas Central,Siro Rosané,0.33,-0.03,-1.0,Gonzalo Goñi,0.7,0.28,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,13,22,Barracas Central,Gonzalo Goñi,0.69,0.4,-1.0,Rodrigo Insúa,0.42,0.76,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,13,25,Barracas Central,Rodrigo Insúa,0.36,0.83,-1.0,Maximiliano Zalazar,-0.18,0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,13,47,Barracas Central,Siro Rosané,0.21,0.65,-1.0,Rodrigo Insúa,0.6,0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,13,51,Barracas Central,Rodrigo Insúa,0.54,0.72,-1.0,Facundo Mater,0.4,-0.53,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,1,Barracas Central,Facundo Mater,-0.24,0.06,-1.0,Siro Rosané,-0.2,0.64,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,5,Barracas Central,Siro Rosané,-0.2,0.65,-1.0,Rodrigo Insúa,0.12,0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,8,Barracas Central,Rodrigo Insúa,0.1,0.76,-1.0,Siro Rosané,0.14,0.44,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,11,Barracas Central,Siro Rosané,0.16,0.45,-1.0,Alan Cantero,-0.16,-0.1,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,13,Barracas Central,Alan Cantero,-0.18,-0.1,-1.0,Siro Rosané,0.07,0.43,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,16,Barracas Central,Siro Rosané,0.13,0.4,-1.0,Rodrigo Herrera,0.2,-0.12,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,18,Barracas Central,Rodrigo Herrera,0.2,-0.13,-1.0,Siro Rosané,0.13,0.36,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,20,Barracas Central,Siro Rosané,0.18,0.3,-1.0,Rodrigo Insúa,-0.16,0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,22,Barracas Central,Rodrigo Insúa,-0.15,0.79,-1.0,Alan Cantero,-0.29,0.32,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,25,Barracas Central,Alan Cantero,-0.26,0.37,-1.0,Maximiliano Zalazar,-0.58,0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,28,Barracas Central,Maximiliano Zalazar,-0.65,0.74,-1.0,Lucas Brochero,-0.74,-0.74,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,30,Barracas Central,Lucas Brochero,-0.73,-0.75,-1.0,Facundo Mater,-0.47,-0.3,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,32,Dep. Riestra,Nicolás Benegas,-0.15,-0.69,-1.0,Walter Acuña,0.1,-0.72,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,33,Dep. Riestra,Walter Acuña,0.08,-0.72,-1.0,Milton Céliz,0.16,-0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,54,Barracas Central,Siro Rosané,0.49,0.54,-1.0,Rodrigo Herrera,0.13,0.14,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,14,58,Barracas Central,Rodrigo Herrera,0.12,0.13,-1.0,Siro Rosané,0.22,0.49,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,15,0,Barracas Central,Siro Rosané,0.19,0.51,-1.0,Rodrigo Insúa,0.1,0.87,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,15,3,Barracas Central,Rodrigo Insúa,0.13,0.78,-1.0,Rodrigo Herrera,0.26,0.26,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,15,5,Barracas Central,Rodrigo Herrera,0.27,0.21,-1.0,Gonzalo Goñi,0.52,-0.1,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,15,8,Barracas Central,Gonzalo Goñi,0.54,-0.12,-1.0,Facundo Mater,0.25,-0.66,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,15,12,Barracas Central,Facundo Mater,0.16,-0.56,-1.0,Siro Rosané,0.15,-0.19,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,15,14,Barracas Central,Siro Rosané,0.16,-0.23,-1.0,Facundo Mater,0.21,-0.66,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,15,16,Barracas Central,Facundo Mater,0.21,-0.59,-1.0,Siro Rosané,0.06,-0.21,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,15,19,Barracas Central,Siro Rosané,0.13,-0.2,-1.0,Maximiliano Zalazar,-0.34,-0.61,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,15,24,Barracas Central,Maximiliano Zalazar,-0.37,-0.6,-1.0,Siro Rosané,-0.08,-0.12,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,15,27,Barracas Central,Siro Rosané,-0.12,-0.09,-1.0,Rodrigo Insúa,-0.22,0.69,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,15,31,Barracas Central,Rodrigo Insúa,-0.43,0.1,-1.0,Lucas Brochero,-0.53,-0.77,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,16,15,Dep. Riestra,Milton Céliz,0.44,-0.43,-1.0,Walter Acuña,0.91,-0.72,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,16,27,Barracas Central,Lucas Brochero,0.57,-0.49,-1.0,Maximiliano Zalazar,-0.54,0.76,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,16,35,Barracas Central,Maximiliano Zalazar,-0.42,0.13,-1.0,Alan Cantero,-0.55,-0.61,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,16,41,Barracas Central,Alan Cantero,-0.57,-0.57,-1.0,Lucas Brochero,-0.49,0.12,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,16,43,Barracas Central,Lucas Brochero,-0.48,0.1,-1.0,Alan Cantero,-0.52,-0.58,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,16,57,Barracas Central,Rodrigo Insúa,0.23,0.85,-1.0,Siro Rosané,0.26,0.37,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,17,1,Barracas Central,Siro Rosané,0.26,0.4,-1.0,Nicolás Capraro,0.75,-0.31,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,17,6,Barracas Central,Nicolás Capraro,0.65,-0.32,-1.0,Facundo Mater,0.46,-0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,17,12,Barracas Central,Facundo Mater,0.37,-0.85,-1.0,Lucas Brochero,-0.55,-0.79,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,17,17,Barracas Central,Lucas Brochero,-0.57,-0.78,-1.0,Alexis Domínguez,-0.51,-0.62,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,17,28,Barracas Central,Facundo Mater,-0.24,-0.94,-1.0,Rodrigo Herrera,-0.09,-0.36,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,17,33,Barracas Central,Rodrigo Herrera,0.02,-0.26,-1.0,Gonzalo Goñi,0.44,0.5,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,17,35,Barracas Central,Gonzalo Goñi,0.43,0.49,-1.0,Rodrigo Insúa,0.09,0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,17,38,Barracas Central,Rodrigo Insúa,0.0,0.76,-1.0,Siro Rosané,-0.02,0.29,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,17,41,Barracas Central,Siro Rosané,-0.05,0.33,-1.0,Alan Cantero,-0.41,-0.05,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,17,59,Barracas Central,Siro Rosané,-0.19,0.02,-1.0,Rodrigo Insúa,-0.19,0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,18,2,Barracas Central,Rodrigo Insúa,-0.15,0.56,-1.0,Gonzalo Goñi,0.45,0.43,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,18,5,Barracas Central,Gonzalo Goñi,0.46,0.44,-1.0,Nicolás Capraro,0.45,-0.23,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,18,6,Barracas Central,Nicolás Capraro,0.44,-0.23,-1.0,Facundo Mater,0.2,-0.68,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,18,10,Barracas Central,Facundo Mater,0.04,-0.68,-1.0,Lucas Brochero,-0.4,-0.7,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,18,12,Barracas Central,Lucas Brochero,-0.42,-0.75,-1.0,Alexis Domínguez,-0.78,-0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,18,56,Barracas Central,Rodrigo Herrera,0.15,-0.42,-1.0,Maximiliano Zalazar,-0.4,-0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,19,37,Barracas Central,Sebastián Moyano,0.7,0.13,-1.0,Gonzalo Goñi,0.67,0.69,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,19,44,Dep. Riestra,Guillermo Pereira,-0.27,-0.36,-1.0,Milton Céliz,-0.09,-0.04,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,21,4,Barracas Central,Sebastián Moyano,0.58,-0.59,-1.0,Nicolás Capraro,0.58,-0.59,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,21,15,Barracas Central,Gonzalo Goñi,0.62,0.58,-1.0,Rodrigo Insúa,0.35,0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,21,19,Barracas Central,Rodrigo Insúa,0.35,0.81,-1.0,Maximiliano Zalazar,-0.48,0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,21,31,Dep. Riestra,William Machado,-0.21,0.17,-1.0,Walter Acuña,-0.02,-0.07,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,21,31,Barracas Central,Rodrigo Insúa,-0.64,0.9,-1.0,Siro Rosané,-0.42,0.55,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,21,36,Barracas Central,Siro Rosané,-0.32,0.55,-1.0,Alan Cantero,-0.48,0.13,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,21,46,Dep. Riestra,Walter Acuña,0.63,-0.82,-1.0,Guillermo Pereira,0.65,-0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,21,49,Dep. Riestra,Guillermo Pereira,0.68,-0.85,-1.0,Walter Acuña,0.9,-0.77,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,22,48,Dep. Riestra,Milton Céliz,0.42,-0.13,-1.0,Nicolás Benegas,0.64,0.1,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,23,18,Barracas Central,Facundo Mater,0.46,-0.81,-1.0,Rodrigo Herrera,0.23,-0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,23,21,Barracas Central,Rodrigo Herrera,0.22,-0.42,-1.0,Gonzalo Goñi,0.59,-0.44,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,23,23,Barracas Central,Gonzalo Goñi,0.62,-0.38,-1.0,Nicolás Capraro,0.63,0.58,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,23,26,Barracas Central,Nicolás Capraro,0.63,0.54,-1.0,Gonzalo Goñi,0.68,-0.4,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,23,28,Barracas Central,Gonzalo Goñi,0.66,-0.47,-1.0,Facundo Mater,0.52,-0.76,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,23,30,Barracas Central,Facundo Mater,0.46,-0.75,-1.0,Rodrigo Herrera,0.31,-0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,24,30,Barracas Central,Sebastián Moyano,0.87,-0.01,-1.0,Facundo Mater,0.53,-0.75,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,24,35,Barracas Central,Facundo Mater,0.51,-0.66,-1.0,Nicolás Capraro,0.71,-0.21,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,24,36,Barracas Central,Nicolás Capraro,0.73,-0.28,-1.0,Facundo Mater,0.63,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,24,49,Barracas Central,Rodrigo Herrera,0.42,-0.39,-1.0,Rodrigo Insúa,0.43,-0.4,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,24,55,Barracas Central,Rodrigo Insúa,0.4,0.81,-1.0,Siro Rosané,-0.16,0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,24,57,Barracas Central,Sebastián Moyano,-0.15,0.38,-1.0,Alan Cantero,-0.22,-0.14,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,25,51,Dep. Riestra,Ignacio Arce,-0.74,-0.13,-1.0,Alan Barrionuevo,-0.35,-0.64,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,25,56,Dep. Riestra,Alan Barrionuevo,0.11,-0.61,-1.0,Nicolás Benegas,0.46,-0.29,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,26,9,Dep. Riestra,Milton Céliz,0.44,0.29,-1.0,Nicolás Benegas,0.45,-0.07,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,26,42,Barracas Central,Sebastián Moyano,0.85,0.16,-1.0,Nicolás Capraro,0.73,-0.29,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,26,46,Barracas Central,Nicolás Capraro,0.75,-0.29,-1.0,Facundo Mater,0.67,-0.75,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,26,44,Dep. Riestra,Guillermo Pereira,0.31,-0.71,-1.0,Walter Acuña,0.45,-0.08,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,26,50,Dep. Riestra,Walter Acuña,0.48,0.24,-1.0,Milton Céliz,0.63,0.13,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,27,7,Barracas Central,Sebastián Moyano,0.73,-0.04,-1.0,Siro Rosané,0.29,0.44,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,27,11,Barracas Central,Siro Rosané,0.26,0.43,-1.0,Alan Cantero,0.02,0.15,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,27,13,Barracas Central,Alan Cantero,0.03,0.16,-1.0,Gonzalo Goñi,0.58,0.51,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,27,15,Barracas Central,Gonzalo Goñi,0.62,0.44,-1.0,Nicolás Capraro,0.66,-0.08,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,27,19,Barracas Central,Facundo Mater,0.61,-0.2,-1.0,Nicolás Capraro,0.6,-0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,27,30,Barracas Central,Siro Rosané,-0.11,-0.22,-1.0,Lucas Brochero,-0.51,-0.67,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,27,34,Barracas Central,Lucas Brochero,-0.51,-0.65,-1.0,Siro Rosané,-0.22,-0.24,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,28,20,Dep. Riestra,Nicolás Benegas,-0.46,-0.37,-1.0,Walter Acuña,-0.14,-0.63,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,29,55,Barracas Central,Gonzalo Goñi,0.76,0.88,-1.0,Rodrigo Insúa,0.33,0.84,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,30,1,Barracas Central,Rodrigo Insúa,0.34,0.84,-1.0,Maximiliano Zalazar,-0.17,0.57,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,30,7,Dep. Riestra,Nicolás Caro Torres,-0.17,0.78,-1.0,Nahuel Iribarren,-0.3,0.27,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,30,12,Dep. Riestra,Nahuel Iribarren,-0.2,0.06,-1.0,Alan Barrionuevo,-0.15,-0.66,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,30,15,Dep. Riestra,Alan Barrionuevo,-0.17,-0.61,-1.0,Nahuel Iribarren,-0.29,-0.02,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,30,30,Barracas Central,Nicolás Capraro,0.59,-0.04,-1.0,Lucas Brochero,0.22,-0.35,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,30,33,Barracas Central,Lucas Brochero,0.2,-0.35,-1.0,Facundo Mater,0.53,-0.58,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,30,37,Barracas Central,Facundo Mater,0.48,-0.6,-1.0,Alan Cantero,-0.39,-0.31,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,30,40,Barracas Central,Alan Cantero,-0.36,-0.33,-1.0,Rodrigo Herrera,0.23,-0.06,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,30,42,Barracas Central,Rodrigo Herrera,0.16,-0.1,-1.0,Alan Cantero,-0.19,-0.33,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,1,Barracas Central,Facundo Mater,0.31,-0.91,-1.0,Siro Rosané,0.15,-0.48,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,7,Barracas Central,Siro Rosané,0.16,-0.47,-1.0,Facundo Mater,0.25,-0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,9,Barracas Central,Facundo Mater,0.25,-0.8,-1.0,Siro Rosané,0.07,-0.44,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,11,Barracas Central,Siro Rosané,-0.04,-0.46,-1.0,Rodrigo Herrera,-0.03,-0.04,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,12,Barracas Central,Rodrigo Herrera,-0.01,-0.01,-1.0,Rodrigo Insúa,0.06,0.89,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,15,Barracas Central,Rodrigo Insúa,0.01,0.88,-1.0,Maximiliano Zalazar,-0.4,0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,18,Barracas Central,Maximiliano Zalazar,-0.41,0.76,-1.0,Alan Cantero,-0.37,0.06,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,20,Barracas Central,Alan Cantero,-0.41,0.06,-1.0,Rodrigo Herrera,-0.39,-0.15,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,22,Barracas Central,Rodrigo Herrera,-0.31,-0.23,-1.0,Facundo Mater,-0.58,-0.58,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,29,Barracas Central,Facundo Mater,-0.63,-0.8,-1.0,Rodrigo Herrera,-0.09,-0.73,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,33,Barracas Central,Rodrigo Herrera,-0.12,-0.67,-1.0,Nicolás Capraro,0.23,-0.19,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,36,Barracas Central,Nicolás Capraro,0.18,-0.14,-1.0,Gonzalo Goñi,0.15,0.44,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,38,Barracas Central,Gonzalo Goñi,0.12,0.5,-1.0,Rodrigo Insúa,-0.26,0.71,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,41,Barracas Central,Rodrigo Insúa,-0.22,0.71,-1.0,Gonzalo Goñi,0.12,0.47,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,42,Barracas Central,Gonzalo Goñi,0.1,0.46,-1.0,Nicolás Capraro,0.17,-0.23,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,45,Barracas Central,Nicolás Capraro,0.15,-0.32,-1.0,Rodrigo Herrera,-0.07,-0.17,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,47,Barracas Central,Rodrigo Herrera,-0.08,-0.17,-1.0,Alan Cantero,-0.39,0.19,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,31,52,Barracas Central,Alan Cantero,-0.37,-0.02,-1.0,Lucas Brochero,-0.57,-0.51,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,32,1,Barracas Central,Rodrigo Herrera,0.0,0.24,-1.0,Siro Rosané,-0.24,0.3,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,32,7,Barracas Central,Siro Rosané,-0.38,0.08,-1.0,Rodrigo Insúa,-0.5,0.77,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,32,13,Barracas Central,Rodrigo Insúa,-0.46,0.68,-1.0,Gonzalo Goñi,0.15,0.33,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,32,15,Barracas Central,Gonzalo Goñi,0.19,0.21,-1.0,Nicolás Capraro,0.29,-0.22,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,32,24,Barracas Central,Nicolás Capraro,0.23,0.42,-1.0,Siro Rosané,-0.33,0.59,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,32,27,Barracas Central,Siro Rosané,-0.2,0.55,-1.0,Rodrigo Herrera,-0.17,-0.02,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,33,12,Barracas Central,Alan Cantero,0.25,0.06,-1.0,Siro Rosané,0.21,0.25,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,33,15,Barracas Central,Siro Rosané,0.16,0.31,-1.0,Rodrigo Insúa,-0.23,0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,33,47,Barracas Central,Facundo Mater,0.38,-0.93,-1.0,Nicolás Capraro,0.64,-0.36,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,33,51,Barracas Central,Nicolás Capraro,0.65,-0.31,-1.0,Gonzalo Goñi,0.58,0.45,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,33,54,Barracas Central,Gonzalo Goñi,0.6,0.44,-1.0,Rodrigo Insúa,0.33,0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,33,58,Barracas Central,Rodrigo Insúa,0.41,0.83,-1.0,Gonzalo Goñi,0.6,0.4,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,34,0,Barracas Central,Gonzalo Goñi,0.66,0.2,-1.0,Nicolás Capraro,0.62,-0.38,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,34,2,Barracas Central,Nicolás Capraro,0.55,-0.35,-1.0,Rodrigo Herrera,0.33,-0.1,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,34,4,Barracas Central,Rodrigo Herrera,0.23,-0.25,-1.0,Nicolás Capraro,0.46,-0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,34,42,Barracas Central,Facundo Mater,0.47,-0.71,-1.0,Nicolás Capraro,0.68,-0.4,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,34,48,Barracas Central,Nicolás Capraro,0.68,-0.36,-1.0,Sebastián Moyano,0.83,0.21,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,34,50,Barracas Central,Sebastián Moyano,0.85,0.15,-1.0,Gonzalo Goñi,0.54,0.47,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,34,53,Barracas Central,Gonzalo Goñi,0.52,0.55,-1.0,Rodrigo Insúa,0.2,0.88,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,34,56,Barracas Central,Rodrigo Insúa,0.21,0.81,-1.0,Gonzalo Goñi,0.53,0.5,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,34,59,Barracas Central,Gonzalo Goñi,0.59,0.45,-1.0,Siro Rosané,0.31,0.59,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,35,18,Barracas Central,Sebastián Moyano,0.75,0.24,-1.0,Rodrigo Herrera,0.49,0.29,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,35,22,Barracas Central,Rodrigo Herrera,0.48,0.29,-1.0,Rodrigo Insúa,0.22,0.91,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,35,24,Dep. Riestra,Nicolás Caro Torres,-0.86,0.77,-1.0,Maximiliano Rodríguez,-0.52,0.94,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,35,36,Barracas Central,Rodrigo Herrera,0.27,0.4,-1.0,Rodrigo Insúa,0.22,0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,35,39,Barracas Central,Rodrigo Insúa,0.19,0.85,-1.0,Sebastián Moyano,0.94,0.52,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,35,43,Dep. Riestra,Nahuel Iribarren,-0.19,-0.03,-1.0,Guillermo Pereira,0.01,-0.73,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,35,47,Dep. Riestra,Guillermo Pereira,-0.07,-0.7,-1.0,Alan Barrionuevo,-0.25,-0.58,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,36,9,Barracas Central,Sebastián Moyano,0.8,0.36,-1.0,Rodrigo Insúa,0.49,0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,36,11,Barracas Central,Rodrigo Insúa,0.49,0.78,-1.0,Nicolás Capraro,0.69,0.07,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,36,35,Barracas Central,Nicolás Capraro,0.48,-0.97,-1.0,Facundo Mater,0.73,-0.55,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,36,38,Barracas Central,Facundo Mater,0.68,-0.51,-1.0,Gonzalo Goñi,0.63,0.13,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,36,40,Barracas Central,Gonzalo Goñi,0.6,0.3,-1.0,Rodrigo Insúa,0.28,0.86,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,36,43,Barracas Central,Rodrigo Insúa,0.21,0.85,-1.0,Gonzalo Goñi,0.58,0.65,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,36,49,Barracas Central,Gonzalo Goñi,0.55,0.59,-1.0,Nicolás Capraro,0.63,-0.04,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,36,52,Barracas Central,Nicolás Capraro,0.62,-0.17,-1.0,Alan Cantero,-0.19,-0.48,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,36,58,Barracas Central,Alan Cantero,-0.27,-0.52,-1.0,Maximiliano Zalazar,-0.48,-0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,37,0,Barracas Central,Maximiliano Zalazar,-0.46,-0.85,-1.0,Rodrigo Herrera,-0.06,-0.52,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,37,4,Barracas Central,Rodrigo Herrera,-0.09,-0.49,-1.0,Rodrigo Insúa,-0.11,0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,37,8,Barracas Central,Rodrigo Insúa,-0.1,0.8,-1.0,Gonzalo Goñi,0.51,0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,37,10,Barracas Central,Gonzalo Goñi,0.49,0.46,-1.0,Rodrigo Insúa,0.09,0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,37,37,Barracas Central,Maximiliano Zalazar,-0.54,0.78,-1.0,Rodrigo Insúa,-0.23,0.91,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,37,45,Barracas Central,Rodrigo Insúa,-0.16,0.89,-1.0,Gonzalo Goñi,0.42,0.58,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,37,48,Barracas Central,Gonzalo Goñi,0.41,0.51,-1.0,Siro Rosané,-0.03,0.61,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,37,51,Barracas Central,Siro Rosané,0.03,0.24,-1.0,Gonzalo Goñi,0.17,0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,37,54,Barracas Central,Gonzalo Goñi,0.13,0.76,-1.0,Rodrigo Insúa,-0.12,0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,37,57,Barracas Central,Rodrigo Insúa,-0.23,0.88,-1.0,Alan Cantero,-0.4,0.39,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,38,5,Barracas Central,Rodrigo Insúa,0.03,0.85,-1.0,Lucas Brochero,-0.12,0.44,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,38,10,Barracas Central,Lucas Brochero,-0.13,0.44,-1.0,Gonzalo Goñi,0.38,0.64,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,38,35,Barracas Central,Rodrigo Insúa,0.52,0.81,-1.0,Siro Rosané,0.39,0.49,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,38,39,Barracas Central,Siro Rosané,0.41,0.48,-1.0,Alexis Domínguez,-0.34,0.67,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,38,40,Dep. Riestra,Milton Céliz,0.26,0.39,-1.0,Walter Acuña,0.36,0.59,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,38,46,Dep. Riestra,Walter Acuña,0.31,0.37,-1.0,Nicolás Benegas,0.6,0.07,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,38,58,Barracas Central,Siro Rosané,0.42,0.46,-1.0,Alan Cantero,-0.07,-0.13,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,39,2,Barracas Central,Alan Cantero,-0.02,-0.19,-1.0,Nicolás Capraro,0.44,-0.41,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,39,2,Dep. Riestra,Alan Barrionuevo,0.3,-0.73,-1.0,Guillermo Pereira,0.34,-0.73,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,39,5,Barracas Central,Nicolás Capraro,0.53,-0.44,-1.0,Facundo Mater,0.18,-0.73,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,41,40,Barracas Central,Facundo Mater,0.45,-0.9,-1.0,Nicolás Capraro,0.67,-0.52,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,41,44,Barracas Central,Nicolás Capraro,0.65,-0.44,-1.0,Gonzalo Goñi,0.69,0.51,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,41,46,Barracas Central,Gonzalo Goñi,0.67,0.55,-1.0,Rodrigo Insúa,0.33,0.87,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,41,49,Barracas Central,Rodrigo Insúa,0.38,0.85,-1.0,Gonzalo Goñi,0.67,0.5,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,41,52,Barracas Central,Gonzalo Goñi,0.69,0.49,-1.0,Siro Rosané,0.41,0.15,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,41,54,Barracas Central,Siro Rosané,0.37,0.1,-1.0,Nicolás Capraro,0.57,-0.51,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,41,57,Barracas Central,Nicolás Capraro,0.59,-0.52,-1.0,Facundo Mater,0.37,-0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,42,1,Dep. Riestra,Milton Céliz,0.15,-0.49,-1.0,Walter Acuña,0.38,-0.33,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,42,4,Dep. Riestra,Walter Acuña,0.38,-0.3,-1.0,Milton Céliz,0.4,-0.4,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,42,19,Barracas Central,Sebastián Moyano,0.8,0.19,-1.0,Nicolás Capraro,0.7,-0.16,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,42,23,Barracas Central,Nicolás Capraro,0.67,-0.14,-1.0,Gonzalo Goñi,0.57,0.6,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,42,26,Barracas Central,Gonzalo Goñi,0.56,0.6,-1.0,Rodrigo Insúa,0.24,0.87,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,42,29,Barracas Central,Rodrigo Insúa,0.21,0.89,-1.0,Siro Rosané,0.3,0.41,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,42,32,Barracas Central,Siro Rosané,0.25,0.44,-1.0,Rodrigo Herrera,0.49,-0.1,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,42,35,Barracas Central,Rodrigo Herrera,0.49,-0.15,-1.0,Nicolás Capraro,0.52,-0.57,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,42,40,Barracas Central,Nicolás Capraro,0.45,-0.47,-1.0,Alan Cantero,0.14,-0.02,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,42,43,Barracas Central,Alan Cantero,0.17,-0.08,-1.0,Gonzalo Goñi,0.51,0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,42,49,Barracas Central,Gonzalo Goñi,0.49,0.55,-1.0,Rodrigo Insúa,0.12,0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,42,52,Barracas Central,Rodrigo Insúa,0.03,0.8,-1.0,Maximiliano Zalazar,-0.49,0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,43,2,Barracas Central,Maximiliano Zalazar,-0.47,0.46,-1.0,Alan Cantero,-0.59,0.66,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,43,6,Barracas Central,Alan Cantero,-0.48,0.55,-1.0,Rodrigo Insúa,-0.43,0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,43,29,Barracas Central,Lucas Brochero,-0.89,-0.91,-1.0,Alan Cantero,-0.51,-0.09,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,44,28,Dep. Riestra,Guillermo Pereira,0.09,-0.7,-1.0,Alan Barrionuevo,0.1,-0.63,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,44,53,Barracas Central,Facundo Mater,0.34,-0.88,-1.0,Nicolás Capraro,0.56,-0.39,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,44,56,Barracas Central,Nicolás Capraro,0.58,-0.33,-1.0,Gonzalo Goñi,0.56,0.33,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,45,1,Barracas Central,Gonzalo Goñi,0.6,0.36,-1.0,Rodrigo Insúa,0.38,0.77,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,45,5,Barracas Central,Rodrigo Insúa,0.37,0.79,-1.0,Siro Rosané,-0.57,0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,45,22,Barracas Central,Rodrigo Insúa,-0.39,0.98,-1.0,Siro Rosané,-0.35,0.61,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,45,27,Barracas Central,Siro Rosané,-0.33,0.64,-1.0,Alan Cantero,-0.28,0.51,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,45,34,Barracas Central,Nicolás Capraro,0.58,-0.32,-1.0,Sebastián Moyano,0.8,0.19,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,45,38,Barracas Central,Sebastián Moyano,0.76,0.26,-1.0,Gonzalo Goñi,0.51,0.62,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,45,42,Barracas Central,Gonzalo Goñi,0.43,0.72,-1.0,Rodrigo Insúa,0.22,0.91,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,46,8,Barracas Central,Rodrigo Insúa,0.32,0.98,-1.0,Siro Rosané,0.18,0.6,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,46,13,Barracas Central,Siro Rosané,0.19,0.53,-1.0,Nicolás Capraro,0.6,0.08,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,46,16,Barracas Central,Nicolás Capraro,0.63,-0.05,-1.0,Rodrigo Herrera,0.44,-0.72,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,46,22,Barracas Central,Rodrigo Herrera,0.31,-0.36,-1.0,Rodrigo Insúa,-0.13,0.62,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,46,29,Dep. Riestra,William Machado,-0.28,0.15,-1.0,Guillermo Pereira,-0.25,-0.64,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,1,46,52,Barracas Central,Facundo Mater,0.66,-0.42,-1.0,Nicolás Capraro,0.66,-0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,45,5,Dep. Riestra,Jonathan Herrera,-0.03,0.0,-1.0,Nicolás Caro Torres,0.34,-0.23,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,45,7,Dep. Riestra,Nicolás Caro Torres,0.3,0.01,-1.0,Nahuel Iribarren,0.3,0.15,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,45,8,Dep. Riestra,Nahuel Iribarren,0.25,0.3,-1.0,Alan Barrionuevo,0.14,0.5,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,45,11,Dep. Riestra,Alan Barrionuevo,0.1,0.55,-1.0,Gustavo Fernández,-0.34,0.01,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,45,12,Dep. Riestra,Gustavo Fernández,-0.33,-0.06,-1.0,Walter Acuña,-0.28,-0.21,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,45,16,Dep. Riestra,Walter Acuña,-0.39,-0.15,-1.0,Guillermo Pereira,-0.45,0.69,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,45,17,Dep. Riestra,Guillermo Pereira,-0.42,0.59,-1.0,Alan Barrionuevo,-0.29,0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,45,35,Barracas Central,Sebastián Moyano,-0.82,0.13,-1.0,Rodrigo Insúa,-0.62,-0.61,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,45,45,Dep. Riestra,Walter Acuña,-0.36,-0.24,-1.0,Milton Céliz,-0.36,0.17,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,45,56,Barracas Central,Rodrigo Insúa,-0.54,-0.57,-1.0,Alexis Domínguez,0.03,-0.3,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,46,12,Barracas Central,Rodrigo Insúa,-0.44,-0.88,-1.0,Maximiliano Zalazar,0.25,-0.86,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,46,14,Dep. Riestra,Nahuel Iribarren,0.41,-0.77,-1.0,Jonatan Goitía,0.22,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,46,17,Barracas Central,Maximiliano Zalazar,0.24,-0.84,-1.0,Alexis Domínguez,0.4,-0.49,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,46,23,Dep. Riestra,Nahuel Iribarren,0.43,-0.36,-1.0,Walter Acuña,-0.2,-0.75,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,46,51,Dep. Riestra,Gustavo Fernández,-0.39,-0.5,-1.0,Jonathan Herrera,-0.61,-0.37,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,47,26,Barracas Central,Alexis Domínguez,0.45,-0.6,-1.0,Alan Cantero,0.22,-0.61,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,47,27,Dep. Riestra,Milton Céliz,-0.06,-0.58,-1.0,Gustavo Fernández,-0.27,-0.58,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,47,35,Barracas Central,Siro Rosané,-0.33,-0.38,-1.0,Rodrigo Insúa,-0.15,-0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,47,39,Barracas Central,Rodrigo Insúa,-0.15,-0.83,-1.0,Alexis Domínguez,0.31,-0.46,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,47,42,Barracas Central,Alexis Domínguez,0.3,-0.52,-1.0,Maximiliano Zalazar,0.71,-0.58,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,47,55,Barracas Central,Maximiliano Zalazar,0.73,-0.62,-1.0,Alan Cantero,0.84,0.41,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,48,52,Dep. Riestra,Jonathan Herrera,0.04,-0.02,-1.0,Gustavo Fernández,-0.02,0.03,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,48,57,Dep. Riestra,Gustavo Fernández,-0.13,0.1,-1.0,Milton Céliz,-0.12,0.13,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,49,5,Dep. Riestra,Nahuel Iribarren,0.71,0.7,-1.0,Ignacio Arce,0.84,0.3,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,49,8,Dep. Riestra,Ignacio Arce,0.79,0.26,-1.0,William Machado,0.45,0.17,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,49,11,Dep. Riestra,William Machado,0.57,0.31,-1.0,Alan Barrionuevo,0.68,0.5,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,49,15,Dep. Riestra,Alan Barrionuevo,0.57,0.52,-1.0,Jonathan Herrera,-0.06,0.06,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,49,17,Dep. Riestra,Jonathan Herrera,-0.04,-0.01,-1.0,Walter Acuña,-0.01,-0.08,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,49,29,Barracas Central,Sebastián Moyano,-0.74,-0.03,-1.0,Rodrigo Insúa,-0.44,-0.76,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,49,51,Barracas Central,Rodrigo Insúa,-0.35,-0.8,-1.0,Facundo Mater,-0.49,0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,49,56,Barracas Central,Facundo Mater,-0.38,0.79,-1.0,Alexis Domínguez,0.39,0.49,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,50,0,Barracas Central,Alexis Domínguez,0.39,0.42,-1.0,Lucas Brochero,0.19,0.93,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,50,4,Barracas Central,Lucas Brochero,0.06,0.87,-1.0,Facundo Mater,-0.45,0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,50,13,Barracas Central,Facundo Mater,0.03,0.83,-1.0,Alan Cantero,0.38,0.45,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,50,17,Barracas Central,Alan Cantero,0.38,0.47,-1.0,Siro Rosané,0.4,0.06,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,51,31,Barracas Central,Rodrigo Insúa,0.67,-0.92,-1.0,Alexis Domínguez,0.75,-0.57,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,51,35,Barracas Central,Alexis Domínguez,0.73,-0.56,-1.0,Rodrigo Insúa,0.74,-0.89,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,52,6,Barracas Central,Alan Cantero,0.98,-0.95,-1.0,Maximiliano Zalazar,0.54,-0.63,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,52,39,Barracas Central,Rodrigo Herrera,-0.35,-0.29,-1.0,Rodrigo Insúa,-0.42,-0.73,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,53,4,Dep. Riestra,Alan Barrionuevo,0.3,0.01,-1.0,Gustavo Fernández,-0.23,-0.4,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,53,4,Barracas Central,Rodrigo Herrera,0.12,-0.19,-1.0,Maximiliano Zalazar,0.32,0.31,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,54,27,Dep. Riestra,Nicolás Caro Torres,0.39,-0.5,-1.0,Walter Acuña,-0.2,-0.43,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,56,46,Dep. Riestra,Walter Acuña,-0.53,-0.35,-1.0,Guillermo Pereira,-0.49,-0.19,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,57,32,Barracas Central,Lucas Brochero,0.09,0.27,-1.0,Maximiliano Zalazar,0.7,-0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,57,56,Barracas Central,Rodrigo Insúa,0.66,-0.95,-1.0,Alexis Domínguez,0.84,-0.57,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,58,16,Barracas Central,Rodrigo Insúa,0.63,-0.94,-1.0,Alexis Domínguez,0.8,-0.77,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,58,22,Barracas Central,Alexis Domínguez,0.79,-0.82,-1.0,Rodrigo Insúa,0.49,-0.88,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,58,39,Barracas Central,Rodrigo Insúa,0.38,-0.85,-1.0,Alan Cantero,0.35,-0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,58,57,Dep. Riestra,Alan Barrionuevo,-0.13,-0.17,-1.0,Jonatan Goitía,-0.11,-0.7,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,59,1,Dep. Riestra,Jonatan Goitía,-0.07,-0.71,-1.0,William Machado,-0.08,0.43,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,59,4,Dep. Riestra,William Machado,-0.14,0.33,-1.0,Nicolás Caro Torres,0.1,0.19,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,60,42,Dep. Riestra,Ignacio Arce,0.43,0.28,-1.0,Gustavo Fernández,-0.51,-0.36,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,60,50,Barracas Central,Siro Rosané,-0.37,0.17,-1.0,Facundo Mater,-0.49,0.78,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,61,2,Barracas Central,Facundo Mater,-0.4,0.81,-1.0,Alexis Domínguez,0.49,0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,61,5,Barracas Central,Alexis Domínguez,0.46,0.81,-1.0,Rodrigo Herrera,0.19,0.48,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,61,13,Barracas Central,Nicolás Capraro,-0.4,0.1,-1.0,Sebastián Moyano,-0.75,0.1,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,61,27,Barracas Central,Maximiliano Zalazar,0.24,-0.69,-1.0,Alexis Domínguez,0.46,-0.68,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,61,32,Barracas Central,Carlos Arce,0.16,-0.63,-1.0,Maximiliano Zalazar,0.83,-0.72,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,61,40,Barracas Central,Maximiliano Zalazar,0.74,-0.74,-1.0,Rodrigo Insúa,0.28,-0.77,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,61,47,Barracas Central,Rodrigo Insúa,0.35,-0.76,-1.0,Alexis Domínguez,0.76,0.1,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,63,10,Dep. Riestra,Nahuel Iribarren,0.43,-0.46,-1.0,Nicolás Caro Torres,0.28,0.47,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,63,16,Dep. Riestra,Nicolás Caro Torres,0.07,0.57,-1.0,Gustavo Fernández,-0.63,-0.4,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,63,21,Dep. Riestra,Gustavo Fernández,-0.55,-0.51,-1.0,Walter Acuña,-0.49,-0.5,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,66,31,Barracas Central,Rodrigo Insúa,-0.58,-0.93,-1.0,Alexis Domínguez,0.1,-0.79,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,68,5,Dep. Riestra,Jonatan Goitía,0.3,-0.78,-1.0,Guillermo Pereira,0.17,-0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,68,8,Dep. Riestra,Guillermo Pereira,0.11,-0.6,-1.0,Jonatan Goitía,0.11,-0.74,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,69,7,Dep. Riestra,Guillermo Pereira,-0.42,-0.35,-1.0,Gonzalo Bravo,-0.67,-0.72,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,69,13,Dep. Riestra,Gonzalo Bravo,-0.78,-0.84,-1.0,Milton Céliz,-0.8,-0.71,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,69,25,Barracas Central,Rodrigo Insúa,0.16,-0.87,-1.0,Daniel Juárez,0.52,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,69,33,Barracas Central,Daniel Juárez,0.53,-0.8,-1.0,Alexis Domínguez,0.58,-0.51,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,69,42,Dep. Riestra,Gustavo Fernández,-0.22,-0.64,-1.0,Gonzalo Bravo,-0.21,-0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,69,47,Dep. Riestra,Gonzalo Bravo,-0.16,-0.54,-1.0,Gustavo Fernández,-0.14,-0.75,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,70,2,Dep. Riestra,Jonatan Goitía,-0.45,-0.64,-1.0,Walter Acuña,-0.37,0.38,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,70,36,Dep. Riestra,Nahuel Iribarren,0.53,-0.29,-1.0,Ignacio Arce,0.72,0.15,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,70,42,Dep. Riestra,Alan Barrionuevo,0.18,0.49,-1.0,Gustavo Fernández,-0.32,-0.27,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,70,47,Dep. Riestra,Gustavo Fernández,-0.41,-0.14,-1.0,Jonathan Herrera,-0.48,0.18,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,70,49,Dep. Riestra,Jonathan Herrera,-0.53,0.33,-1.0,Milton Céliz,-0.62,0.56,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,71,6,Dep. Riestra,Walter Acuña,-0.49,0.71,-1.0,Alan Barrionuevo,-0.55,0.9,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,71,16,Dep. Riestra,Ignacio Arce,0.69,0.07,-1.0,Nicolás Caro Torres,0.32,0.77,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,71,23,Dep. Riestra,Nicolás Caro Torres,0.08,0.77,-1.0,Gustavo Fernández,-0.81,-0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,71,32,Dep. Riestra,Gustavo Fernández,-0.86,-0.55,-1.0,Jonathan Herrera,-0.9,-0.27,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,71,52,Dep. Riestra,Gonzalo Bravo,-0.94,-0.51,-1.0,Guillermo Pereira,-0.68,-0.51,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,71,57,Dep. Riestra,Guillermo Pereira,-0.65,-0.44,-1.0,Walter Acuña,-0.51,0.52,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,72,57,Dep. Riestra,Nahuel Iribarren,-0.36,-0.24,-1.0,Alan Barrionuevo,-0.71,-0.62,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,73,2,Dep. Riestra,Alan Barrionuevo,-0.78,-0.79,-1.0,Jonatan Goitía,-0.59,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,73,8,Dep. Riestra,Guillermo Pereira,-0.38,0.04,-1.0,Gonzalo Bravo,-0.75,0.51,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,75,2,Barracas Central,Rodrigo Herrera,-0.35,-0.23,-1.0,Jhonatan Candia,0.4,-0.16,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,75,9,Barracas Central,Rodrigo Herrera,-0.25,-0.13,-1.0,Facundo Mater,-0.46,0.74,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,75,13,Barracas Central,Facundo Mater,-0.48,0.8,-1.0,Nicolás Capraro,-0.56,0.45,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,75,15,Barracas Central,Nicolás Capraro,-0.76,0.52,-1.0,Facundo Mater,-0.41,0.84,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,75,17,Barracas Central,Facundo Mater,-0.49,0.89,-1.0,Nicolás Capraro,-0.56,0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,75,24,Dep. Riestra,Guillermo Pereira,-0.09,-0.12,-1.0,Jonatan Goitía,-0.16,-0.47,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,75,29,Dep. Riestra,Jonatan Goitía,-0.23,-0.57,-1.0,Guillermo Pereira,-0.23,-0.32,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,75,31,Dep. Riestra,Guillermo Pereira,-0.22,-0.43,-1.0,Nicolás Caro Torres,0.16,-0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,75,33,Dep. Riestra,Nicolás Caro Torres,0.15,-0.53,-1.0,Gustavo Fernández,-0.52,-0.41,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,75,36,Dep. Riestra,Gustavo Fernández,-0.65,-0.39,-1.0,Walter Acuña,-0.68,-0.2,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,76,36,Barracas Central,Rodrigo Insúa,0.03,-0.94,-1.0,Jhonatan Candia,0.49,-0.65,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,76,46,Dep. Riestra,Jonatan Goitía,0.16,-0.7,-1.0,Guillermo Pereira,0.09,-0.35,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,76,49,Dep. Riestra,Guillermo Pereira,0.1,-0.27,-1.0,Nicolás Caro Torres,0.33,0.08,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,76,58,Dep. Riestra,Walter Acuña,-0.49,-0.47,-1.0,Gustavo Fernández,-0.61,-0.22,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,77,39,Barracas Central,Sebastián Moyano,-0.84,-0.06,-1.0,Daniel Juárez,0.84,0.9,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,80,3,Dep. Riestra,Leonardo Landriel,0.61,0.84,-1.0,Nicolás Caro Torres,0.6,0.58,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,80,7,Dep. Riestra,Nicolás Caro Torres,0.61,0.51,-1.0,Ignacio Arce,0.75,-0.13,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,80,9,Dep. Riestra,Ignacio Arce,0.65,-0.26,-1.0,Guillermo Pereira,0.48,-0.33,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,80,13,Dep. Riestra,Guillermo Pereira,0.39,-0.24,-1.0,Leonardo Landriel,0.11,0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,80,16,Dep. Riestra,Leonardo Landriel,0.1,0.47,-1.0,Nicolás Caro Torres,0.16,0.25,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,80,30,Barracas Central,Jhonatan Candia,0.01,-0.68,-1.0,Rodrigo Insúa,-0.54,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,80,34,Barracas Central,Rodrigo Insúa,-0.51,-0.71,-1.0,Rodrigo Herrera,-0.27,-0.18,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,80,36,Barracas Central,Rodrigo Herrera,-0.26,-0.2,-1.0,Carlos Arce,0.09,-0.45,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,80,38,Barracas Central,Carlos Arce,0.11,-0.42,-1.0,Maximiliano Puig,0.79,-0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,81,15,Dep. Riestra,Ignacio Arce,0.43,-0.35,-1.0,Nicolás Caro Torres,0.33,0.41,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,81,27,Dep. Riestra,Guillermo Pereira,-0.3,-0.06,-1.0,Walter Acuña,-0.42,-0.76,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,81,33,Dep. Riestra,Walter Acuña,-0.27,-0.58,-1.0,Guillermo Pereira,-0.2,-0.46,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,81,35,Dep. Riestra,Guillermo Pereira,-0.12,-0.49,-1.0,Alan Barrionuevo,0.18,-0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,81,39,Dep. Riestra,Alan Barrionuevo,0.07,-0.4,-1.0,Guillermo Pereira,-0.14,-0.21,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,81,41,Dep. Riestra,Guillermo Pereira,-0.22,-0.15,-1.0,Gonzalo Bravo,-0.29,0.12,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,81,48,Dep. Riestra,Ignacio Arce,0.47,0.36,-1.0,Leonardo Landriel,-0.14,0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,81,55,Dep. Riestra,Leonardo Landriel,-0.02,0.78,-1.0,Nicolás Caro Torres,0.11,0.78,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,82,51,Dep. Riestra,Nicolás Caro Torres,0.73,0.38,-1.0,Ignacio Arce,0.74,0.02,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,82,53,Dep. Riestra,Ignacio Arce,0.71,-0.15,-1.0,Alan Barrionuevo,0.54,-0.55,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,83,28,Barracas Central,Facundo Mater,0.25,0.77,-1.0,Daniel Juárez,0.63,0.89,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,83,37,Barracas Central,Rodrigo Herrera,0.21,0.61,-1.0,Facundo Mater,0.2,0.88,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,83,42,Barracas Central,Facundo Mater,0.21,0.92,-1.0,Rodrigo Herrera,0.26,0.64,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,83,44,Barracas Central,Rodrigo Herrera,0.21,0.58,-1.0,Daniel Juárez,0.43,0.86,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,84,21,Barracas Central,Facundo Mater,0.37,0.93,-1.0,Daniel Juárez,0.73,0.84,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,84,35,Dep. Riestra,Ignacio Arce,0.65,0.39,-1.0,Leonardo Landriel,0.23,0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,84,40,Dep. Riestra,Leonardo Landriel,0.15,0.81,-1.0,Gustavo Fernández,-0.58,-0.11,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,85,25,Dep. Riestra,Alan Barrionuevo,0.07,0.22,-1.0,Leonardo Landriel,-0.01,0.74,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,85,28,Dep. Riestra,Leonardo Landriel,-0.07,0.83,-1.0,Jonathan Herrera,-0.52,0.55,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,85,32,Dep. Riestra,Jonathan Herrera,-0.45,0.45,-1.0,Milton Céliz,-0.36,0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,85,49,Dep. Riestra,Milton Céliz,-0.35,0.04,-1.0,Jonatan Goitía,-0.39,-0.3,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,86,14,Dep. Riestra,Jonatan Goitía,0.31,-0.66,-1.0,Jonathan Herrera,-0.2,-0.33,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,86,18,Dep. Riestra,Jonathan Herrera,-0.22,-0.3,-1.0,Enzo Avaro,-0.12,-0.21,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,86,20,Dep. Riestra,Enzo Avaro,-0.1,-0.24,-1.0,Gonzalo Bravo,-0.53,-0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,87,13,Barracas Central,Jhonatan Candia,0.43,-0.63,-1.0,Maximiliano Puig,0.25,-0.75,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,87,17,Barracas Central,Maximiliano Puig,0.28,-0.76,-1.0,Rodrigo Herrera,-0.01,-0.67,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,87,39,Dep. Riestra,Nicolás Caro Torres,0.7,-0.26,-1.0,Ignacio Arce,0.7,-0.36,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,87,43,Dep. Riestra,Ignacio Arce,0.53,-0.3,-1.0,Nicolás Caro Torres,0.39,0.37,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,87,47,Dep. Riestra,Nicolás Caro Torres,0.16,0.38,-1.0,Gustavo Fernández,-0.58,-0.34,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,88,46,Dep. Riestra,Enzo Avaro,0.72,-0.76,-1.0,Ignacio Arce,0.78,-0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,88,49,Dep. Riestra,Ignacio Arce,0.78,-0.41,-1.0,Walter Acuña,-0.03,-0.14,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,88,52,Dep. Riestra,Walter Acuña,-0.01,0.04,-1.0,Gustavo Fernández,-0.25,-0.2,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,88,54,Dep. Riestra,Gustavo Fernández,-0.24,-0.31,-1.0,Milton Céliz,-0.21,-0.34,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,88,56,Dep. Riestra,Milton Céliz,-0.24,-0.43,-1.0,Gonzalo Bravo,-0.62,-0.76,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,89,8,Dep. Riestra,Alan Barrionuevo,0.17,-0.73,-1.0,Milton Céliz,-0.12,-0.47,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,89,52,Dep. Riestra,Jonatan Goitía,-0.8,-0.79,-1.0,Ignacio Arce,-0.76,0.02,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,90,33,Dep. Riestra,Ignacio Arce,0.44,0.56,-1.0,Gustavo Fernández,-0.4,-0.36,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,90,44,Barracas Central,Jhonatan Candia,-0.04,-0.52,-1.0,Rodrigo Insúa,-0.51,-0.84,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,90,55,Dep. Riestra,Milton Céliz,0.6,-0.35,-1.0,Leonardo Landriel,0.53,0.28,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,91,3,Dep. Riestra,Jonatan Goitía,0.43,-0.32,-1.0,Ignacio Arce,0.81,-0.16,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,91,30,Dep. Riestra,Alan Barrionuevo,0.0,-0.5,-1.0,Walter Acuña,-0.32,0.01,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,91,34,Dep. Riestra,Walter Acuña,-0.47,0.26,-1.0,Jonathan Herrera,-0.6,0.76,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,91,38,Dep. Riestra,Jonathan Herrera,-0.61,0.86,-1.0,Leonardo Landriel,-0.21,0.62,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,91,44,Dep. Riestra,Leonardo Landriel,-0.24,0.4,-1.0,Milton Céliz,-0.28,0.24,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,92,10,Dep. Riestra,Jonatan Goitía,-0.22,-0.72,-1.0,Enzo Avaro,-0.57,-0.22,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,92,15,Dep. Riestra,Enzo Avaro,-0.62,-0.16,-1.0,Walter Acuña,-0.65,0.21,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,94,15,Barracas Central,Daniel Juárez,-0.19,0.83,-1.0,Maximiliano Puig,0.5,-0.64,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,completed_pass,2,95,2,Barracas Central,Facundo Mater,-0.48,0.87,-1.0,Jhonatan Candia,0.4,0.29,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,0,45,Dep. Riestra,Walter Acuña,0.88,-0.86,-1.0,,0.87,-0.73,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,1,34,Dep. Riestra,Guillermo Pereira,-0.22,-0.84,-1.0,,0.2,-0.73,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,1,39,Dep. Riestra,Milton Céliz,0.15,-0.56,-1.0,,0.27,-0.51,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,3,50,Dep. Riestra,Nicolás Benegas,0.58,-0.31,-1.0,,0.65,0.07,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,3,56,Dep. Riestra,Nahuel Iribarren,-0.23,-0.26,-1.0,,0.49,0.43,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,4,5,Dep. Riestra,Walter Acuña,0.45,0.33,-1.0,,0.63,0.22,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,4,13,Dep. Riestra,William Machado,0.14,0.66,-1.0,,0.11,0.86,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,4,56,Dep. Riestra,William Machado,0.4,-0.43,-1.0,,0.47,-0.35,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,6,27,Dep. Riestra,Nicolás Benegas,0.52,-0.12,-1.0,,0.64,-0.27,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,6,39,Barracas Central,Rodrigo Herrera,0.05,-0.8,-1.0,,-0.4,-0.7,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,6,44,Dep. Riestra,Ignacio Arce,-0.43,-0.06,-1.0,,0.26,-0.35,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,6,48,Dep. Riestra,Alan Barrionuevo,-0.16,-0.53,-1.0,,0.29,-0.23,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,7,10,Dep. Riestra,Ignacio Arce,-0.79,-0.07,-1.0,,0.02,-0.03,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,9,8,Dep. Riestra,Guillermo Pereira,-0.7,-0.73,-1.0,,-0.12,-0.46,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,9,14,Dep. Riestra,Alan Barrionuevo,-0.51,-0.2,-1.0,,-0.33,-0.21,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,9,24,Barracas Central,Siro Rosané,-0.31,-0.04,-1.0,,-0.41,0.59,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,9,25,Dep. Riestra,Milton Céliz,-0.3,0.12,-1.0,,0.43,0.17,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,10,10,Dep. Riestra,Guillermo Pereira,0.12,-0.68,-1.0,,0.1,0.03,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,11,28,Dep. Riestra,Ignacio Arce,-0.43,0.26,-1.0,,0.51,0.06,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,12,0,Dep. Riestra,Nicolás Benegas,0.4,0.64,-1.0,,0.71,0.6,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,12,37,Dep. Riestra,Nahuel Iribarren,0.01,0.25,-1.0,,0.96,-0.7,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,13,9,Dep. Riestra,Guillermo Pereira,0.92,-0.48,-1.0,,0.66,0.24,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,14,37,Dep. Riestra,Milton Céliz,0.31,-0.38,-1.0,,0.61,-0.14,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,16,9,Dep. Riestra,Ignacio Arce,-0.47,-0.59,-1.0,,0.6,-0.37,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,16,46,Barracas Central,Alan Cantero,-0.53,-0.5,-1.0,,-0.84,-0.02,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,16,44,Dep. Riestra,Ignacio Arce,-0.71,0.17,-1.0,,0.16,0.1,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,19,17,Dep. Riestra,Ignacio Arce,-0.7,-0.16,-1.0,,0.59,-0.45,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,20,20,Dep. Riestra,Ignacio Arce,-0.32,-0.02,-1.0,,0.78,-0.34,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,21,3,Dep. Riestra,Jonatan Goitía,-0.05,0.11,-1.0,,0.32,0.31,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,21,36,Dep. Riestra,Walter Acuña,0.53,-0.41,-1.0,,0.79,-0.6,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,22,39,Dep. Riestra,William Machado,0.24,-0.77,-1.0,,0.61,0.01,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,22,52,Dep. Riestra,Nicolás Benegas,0.57,-0.04,-1.0,,0.57,-0.2,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,24,35,Dep. Riestra,William Machado,0.19,-0.72,-1.0,,0.36,-0.57,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,26,0,Dep. Riestra,Nicolás Benegas,0.45,-0.28,-1.0,,0.76,0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,26,13,Dep. Riestra,Nicolás Benegas,0.5,-0.13,-1.0,,0.72,0.13,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,26,15,Dep. Riestra,William Machado,0.32,0.26,-1.0,,0.97,-0.56,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,27,20,Dep. Riestra,Nahuel Iribarren,-0.45,-0.18,-1.0,,-0.27,-0.32,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,30,20,Dep. Riestra,Nahuel Iribarren,-0.1,0.01,-1.0,,0.72,-0.02,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,30,41,Dep. Riestra,Nahuel Iribarren,0.06,-0.69,-1.0,,0.17,-0.93,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,31,22,Dep. Riestra,Maximiliano Rodríguez,-0.74,-0.9,-1.0,,-0.31,-0.95,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,31,52,Dep. Riestra,Maximiliano Rodríguez,-0.64,0.71,-1.0,,-0.03,0.4,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,31,56,Barracas Central,Lucas Brochero,-0.8,-0.53,-1.0,,-0.74,0.24,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,32,31,Barracas Central,Rodrigo Herrera,-0.19,-0.03,-1.0,,-0.1,-0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,33,19,Barracas Central,Rodrigo Insúa,-0.29,0.65,-1.0,,-0.18,0.33,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,34,3,Dep. Riestra,Nahuel Iribarren,-0.45,-0.43,-1.0,,0.18,-0.61,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,34,9,Dep. Riestra,Milton Céliz,-0.09,-0.78,-1.0,,0.25,-0.72,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,34,16,Dep. Riestra,Milton Céliz,0.35,-0.79,-1.0,,0.6,-0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,35,29,Dep. Riestra,Maximiliano Rodríguez,-0.51,0.86,-1.0,,-0.13,0.5,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,35,51,Dep. Riestra,Alan Barrionuevo,0.04,-0.57,-1.0,,0.81,-0.09,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,38,35,Dep. Riestra,Nahuel Iribarren,-0.3,0.44,-1.0,,0.41,0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,38,46,Barracas Central,Gonzalo Goñi,0.54,0.57,-1.0,,0.08,0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,39,4,Dep. Riestra,Guillermo Pereira,0.36,-0.68,-1.0,,0.39,-0.58,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,39,7,Dep. Riestra,Nahuel Iribarren,-0.28,-0.56,-1.0,,-0.04,-0.81,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,39,12,Barracas Central,Rodrigo Herrera,0.41,-0.48,-1.0,,-0.5,-0.35,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,41,54,Dep. Riestra,Nahuel Iribarren,-0.46,-0.33,-1.0,,0.34,-0.7,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,42,7,Dep. Riestra,Milton Céliz,0.42,-0.46,-1.0,,0.75,0.4,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,44,19,Dep. Riestra,Nicolás Benegas,0.39,-0.61,-1.0,,0.51,-0.19,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,44,30,Dep. Riestra,Alan Barrionuevo,0.32,-0.48,-1.0,,0.4,-0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,44,33,Dep. Riestra,Nahuel Iribarren,-0.34,-0.57,-1.0,,-0.25,-0.96,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,44,37,Barracas Central,Rodrigo Herrera,0.31,-0.43,-1.0,,-0.65,-0.57,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,45,23,Dep. Riestra,William Machado,-0.29,0.37,-1.0,,0.31,-0.26,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,45,45,Barracas Central,Rodrigo Insúa,0.13,0.89,-1.0,,-0.23,0.69,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,1,45,41,Dep. Riestra,Nahuel Iribarren,-0.35,0.56,-1.0,,0.29,0.9,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,45,20,Dep. Riestra,Alan Barrionuevo,-0.32,0.51,-1.0,,-0.78,0.17,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,45,47,Dep. Riestra,Milton Céliz,-0.41,0.13,-1.0,,-0.58,-0.5,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,46,1,Dep. Riestra,Ignacio Arce,0.63,-0.34,-1.0,,-0.4,-0.51,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,46,5,Dep. Riestra,Nicolás Caro Torres,0.15,-0.65,-1.0,,-0.15,-0.75,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,46,18,Dep. Riestra,Jonatan Goitía,0.16,-0.8,-1.0,,-0.44,-0.3,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,46,52,Barracas Central,Rodrigo Insúa,-0.48,-0.8,-1.0,,-0.58,-0.36,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,47,31,Dep. Riestra,Gustavo Fernández,-0.24,-0.62,-1.0,,-0.21,-0.61,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,48,59,Dep. Riestra,Milton Céliz,-0.16,0.1,-1.0,,-0.37,0.06,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,49,23,Dep. Riestra,Walter Acuña,-0.01,-0.04,-1.0,,-0.71,0.14,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,51,9,Dep. Riestra,Nahuel Iribarren,0.66,-0.49,-1.0,,0.62,-0.54,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,52,42,Barracas Central,Rodrigo Insúa,-0.34,-0.7,-1.0,,0.5,-0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,52,59,Dep. Riestra,Gustavo Fernández,0.16,-0.68,-1.0,,0.11,-0.57,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,53,2,Dep. Riestra,Alan Barrionuevo,0.37,0.13,-1.0,,0.18,0.02,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,53,7,Dep. Riestra,Gustavo Fernández,-0.28,-0.41,-1.0,,-0.59,-0.49,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,54,32,Dep. Riestra,Walter Acuña,-0.43,-0.06,-1.0,,-0.67,0.03,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,56,51,Dep. Riestra,Guillermo Pereira,-0.56,-0.17,-1.0,,-0.98,-0.43,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,57,25,Dep. Riestra,Guillermo Pereira,0.14,-0.47,-1.0,,-0.21,0.04,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,57,59,Dep. Riestra,Nahuel Iribarren,0.79,-0.79,-1.0,,0.36,-0.95,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,58,48,Dep. Riestra,Walter Acuña,-0.38,-0.85,-1.0,,-0.57,0.22,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,59,7,Dep. Riestra,Nicolás Caro Torres,0.03,0.24,-1.0,,-0.56,-0.11,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,60,46,Dep. Riestra,Gustavo Fernández,-0.57,-0.26,-1.0,,-0.58,-0.15,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,61,7,Dep. Riestra,Guillermo Pereira,0.45,0.33,-1.0,,-0.32,0.2,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,61,9,Barracas Central,Rodrigo Herrera,-0.1,0.31,-1.0,,0.35,0.47,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,61,18,Dep. Riestra,Nicolás Caro Torres,0.08,-0.1,-1.0,,-0.35,-0.04,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,61,22,Dep. Riestra,Nahuel Iribarren,0.3,-0.24,-1.0,,0.06,-0.43,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,61,59,Dep. Riestra,Nahuel Iribarren,0.25,-0.5,-1.0,,-0.39,-0.49,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,63,22,Dep. Riestra,Walter Acuña,-0.49,-0.46,-1.0,,-0.65,-0.42,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,65,35,Dep. Riestra,Walter Acuña,-0.8,-0.8,-1.0,,-0.71,-0.97,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,68,1,Dep. Riestra,Guillermo Pereira,0.11,-0.47,-1.0,,-0.09,-0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,68,10,Dep. Riestra,Jonatan Goitía,0.11,-0.78,-1.0,,-0.56,-0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,68,38,Dep. Riestra,Gonzalo Bravo,-0.87,-0.87,-1.0,,-0.87,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,69,16,Dep. Riestra,Milton Céliz,-0.77,-0.68,-1.0,,-0.53,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,69,20,Dep. Riestra,Nahuel Iribarren,-0.19,-0.79,-1.0,,-0.3,-0.74,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,69,36,Barracas Central,Alexis Domínguez,0.62,-0.51,-1.0,,0.89,-0.47,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,70,16,Barracas Central,Facundo Mater,-0.36,0.92,-1.0,,0.36,0.9,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,70,25,Dep. Riestra,Ignacio Arce,0.47,0.49,-1.0,,-0.38,-0.71,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,70,39,Dep. Riestra,Ignacio Arce,0.72,0.17,-1.0,,-0.05,0.53,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,70,58,Dep. Riestra,Milton Céliz,-0.63,0.55,-1.0,,-0.67,0.4,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,71,10,Dep. Riestra,Alan Barrionuevo,-0.56,0.86,-1.0,,-0.6,0.7,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,72,54,Dep. Riestra,Guillermo Pereira,-0.53,0.37,-1.0,,-0.7,0.19,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,73,4,Dep. Riestra,Jonatan Goitía,-0.53,-0.76,-1.0,,-0.79,0.18,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,73,26,Dep. Riestra,Gonzalo Bravo,-0.71,0.47,-1.0,,-0.72,0.46,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,74,50,Dep. Riestra,Guillermo Pereira,-0.3,-0.78,-1.0,,-0.46,-0.15,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,74,54,Dep. Riestra,Jonathan Herrera,-0.46,-0.15,-1.0,,-0.51,-0.35,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,75,1,Dep. Riestra,Leonardo Landriel,0.07,0.01,-1.0,,0.04,-0.13,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,75,20,Barracas Central,Nicolás Capraro,-0.53,0.73,-1.0,,-0.19,-0.17,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,75,19,Dep. Riestra,Walter Acuña,-0.13,-0.01,-1.0,,-0.34,0.17,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,76,43,Dep. Riestra,Milton Céliz,-0.01,-0.61,-1.0,,-0.32,-0.63,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,76,53,Dep. Riestra,Nicolás Caro Torres,0.31,0.16,-1.0,,-0.64,-0.32,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,77,2,Dep. Riestra,Gustavo Fernández,-0.63,-0.21,-1.0,,-0.58,-0.1,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,80,17,Dep. Riestra,Nicolás Caro Torres,0.09,0.27,-1.0,,-0.42,-0.39,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,80,59,Dep. Riestra,Ignacio Arce,0.77,-0.62,-1.0,,-0.31,-0.87,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,81,23,Dep. Riestra,Nicolás Caro Torres,0.15,0.42,-1.0,,-0.41,-0.31,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,81,44,Dep. Riestra,Gonzalo Bravo,-0.32,0.14,-1.0,,-0.4,0.15,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,81,49,Barracas Central,Facundo Mater,-0.46,0.66,-1.0,,0.44,0.59,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,81,57,Dep. Riestra,Nicolás Caro Torres,0.14,0.76,-1.0,,-0.3,0.39,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,82,56,Dep. Riestra,Alan Barrionuevo,0.34,-0.58,-1.0,,-0.39,-0.48,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,83,13,Dep. Riestra,Milton Céliz,-0.25,-0.05,-1.0,,-0.2,0.55,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,83,33,Barracas Central,Daniel Juárez,0.64,0.84,-1.0,,0.21,0.85,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,83,43,Dep. Riestra,Leonardo Landriel,0.51,0.77,-1.0,,0.41,0.97,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,84,44,Dep. Riestra,Gustavo Fernández,-0.63,-0.06,-1.0,,-0.82,0.29,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,85,21,Dep. Riestra,Enzo Avaro,-0.32,0.65,-1.0,,-0.46,0.56,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,85,34,Dep. Riestra,Milton Céliz,-0.35,0.42,-1.0,,-0.89,0.56,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,85,43,Dep. Riestra,Leonardo Landriel,-0.64,0.85,-1.0,,-0.71,-0.16,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,85,58,Dep. Riestra,Jonatan Goitía,-0.34,-0.59,-1.0,,-0.35,-0.62,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,86,16,Barracas Central,Rodrigo Insúa,0.07,-0.95,-1.0,,0.4,-0.82,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,86,24,Dep. Riestra,Gonzalo Bravo,-0.69,-0.52,-1.0,,-0.69,-0.52,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,87,51,Dep. Riestra,Gustavo Fernández,-0.56,-0.25,-1.0,,-0.61,0.08,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,88,43,Dep. Riestra,Enzo Avaro,0.28,-0.75,-1.0,,0.22,-0.8,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,89,13,Dep. Riestra,Milton Céliz,-0.16,-0.32,-1.0,,-0.81,-0.41,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,89,49,Dep. Riestra,Jonatan Goitía,-0.83,-0.82,-1.0,,-0.84,-0.63,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,90,41,Dep. Riestra,Gustavo Fernández,-0.36,-0.5,-1.0,,-0.36,-0.6,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,90,53,Barracas Central,Rodrigo Insúa,-0.51,-0.86,-1.0,,0.68,-0.9,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,90,59,Dep. Riestra,Leonardo Landriel,0.47,0.28,-1.0,,-0.07,-0.31,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,91,8,Dep. Riestra,Ignacio Arce,0.71,-0.24,-1.0,,-0.24,-0.37,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,91,15,Dep. Riestra,Alan Barrionuevo,0.26,-0.33,-1.0,,-0.4,-0.38,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,91,46,Dep. Riestra,Milton Céliz,-0.36,0.22,-1.0,,-0.7,0.48,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,92,54,Dep. Riestra,Milton Céliz,0.1,-0.31,-1.0,,-0.39,0.1,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,93,6,Dep. Riestra,Ignacio Arce,0.48,0.44,-1.0,,-0.61,0.47,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,93,32,Dep. Riestra,Ignacio Arce,0.47,-0.78,-1.0,,-0.64,-0.26,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,94,4,Dep. Riestra,Leonardo Landriel,-0.42,0.38,-1.0,,-0.7,-0.19,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,incomplete_pass,2,94,35,Dep. Riestra,Ignacio Arce,0.46,0.09,-1.0,,-0.42,0.24,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,corner,1,0,53,Dep. Riestra,Guillermo Pereira,0.97,-0.94,-1.0,,0.94,0.05,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,corner,1,2,9,Barracas Central,Rodrigo Insúa,-0.99,-0.95,-1.0,,-0.84,-0.87,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,corner,1,4,47,Dep. Riestra,Guillermo Pereira,0.98,0.97,-1.0,,0.85,-0.02,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,corner,1,18,25,Barracas Central,Rodrigo Insúa,-0.99,-0.96,-1.0,,-0.87,-0.18,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,corner,1,22,24,Dep. Riestra,Walter Acuña,0.98,-0.95,-1.0,,0.87,-0.26,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,corner,2,52,3,Barracas Central,Lucas Brochero,0.97,-0.97,-1.0,,0.88,-0.83,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,corner,2,71,52,Dep. Riestra,Guillermo Pereira,-0.99,-0.93,-1.0,,-0.95,-0.49,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,corner,2,79,56,Barracas Central,Rodrigo Insúa,0.96,0.97,-1.0,,0.89,0.18,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,corner,2,89,42,Dep. Riestra,Jonatan Goitía,-0.98,-0.94,-1.0,,-0.84,0.06,-1.0
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,1,4,7,Barracas Central,Nicolás Capraro,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,1,9,11,Dep. Riestra,Alan Barrionuevo,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,1,11,40,Barracas Central,Facundo Mater,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,1,18,52,Dep. Riestra,Nicolás Benegas,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,1,22,50,Barracas Central,Facundo Mater,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,1,29,23,Barracas Central,Facundo Mater,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,1,45,42,Dep. Riestra,Nahuel Iribarren,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,1,46,24,Dep. Riestra,Nahuel Iribarren,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,1,46,28,Barracas Central,Nicolás Capraro,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,46,26,Barracas Central,Nicolás Capraro,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,53,13,Barracas Central,Nicolás Capraro,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,54,44,Barracas Central,Nicolás Capraro,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,56,38,Barracas Central,Alexis Domínguez,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,61,25,Barracas Central,Gonzalo Goñi,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,65,7,Barracas Central,Daniel Juárez,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,70,57,Barracas Central,Gonzalo Goñi,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,71,44,Barracas Central,Nicolás Capraro,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,73,11,Barracas Central,Gonzalo Goñi,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,75,29,Barracas Central,Nicolás Capraro,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,81,53,Dep. Riestra,Ignacio Arce,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,89,23,Barracas Central,Nicolás Capraro,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,93,45,Barracas Central,Rodrigo Insúa,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,94,14,Barracas Central,Agustín Irazoque,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,94,45,Barracas Central,Facundo Mater,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,clearance,2,94,51,Barracas Central,Rodrigo Insúa,,,,,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,goal,2,47,52,Barracas Central,Lucas Brochero,0.95,-0.04,-1.0,,0.99,-0.06,0.2
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,substitution,2,45,0,Dep. Riestra,Gustavo Fernández,,,,Nicolás Benegas,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,substitution,2,45,0,Dep. Riestra,Jonathan Herrera,,,,Maximiliano Rodríguez,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,substitution,2,60,31,Barracas Central,Carlos Arce,,,,Alan Cantero,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,substitution,2,64,14,Barracas Central,Daniel Juárez,,,,Maximiliano Zalazar,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,substitution,2,64,20,Barracas Central,Maximiliano Puig,,,,Lucas Brochero,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,substitution,2,66,8,Dep. Riestra,Gonzalo Bravo,,,,William Machado,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,substitution,2,73,41,Dep. Riestra,Leonardo Landriel,,,,Nahuel Iribarren,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,substitution,2,82,23,Dep. Riestra,Enzo Avaro,,,,Guillermo Pereira,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,substitution,2,74,5,Barracas Central,Jhonatan Candia,,,,Siro Rosané,,,
+04-02-2024,17:00,Dep. Riestra,Barracas Central,Argentina - Copa LPF 2024,Guillermo Laza,substitution,2,74,19,Barracas Central,Agustín Irazoque,,,,Alexis Domínguez,,,
